@@ -428,7 +428,3 @@ Your diligence and commitment to understanding these detailed aspects will posit
 ## **13. Disclaimer**
 
 This guide provides general information and is not a substitute for professional legal, tax, or financial advice. Laws and regulations are subject to change, and they may vary based on specific circumstances. Before making any decisions, consult with a qualified attorney, accountant, or other professional advisors who are familiar with California laws and government contracting regulations.
-
----
-
-We hope this comprehensive guide helps you in your journey to establish and grow your IT-based LLC in San Diego. Best of luck in your entrepreneurial endeavors!
